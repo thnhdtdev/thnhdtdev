@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;React%20%7C%20Next.js%20%7C%20Tailwind%20CSS;Always%20learning%20and%20building;Let%27s%20connect%20and%20collaborate!%20%E2%9C%A8&font=Fira%20Code&center=true&width=440&height=45">
   </a>
 </p>
