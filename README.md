@@ -74,11 +74,16 @@
   
  </div>
  
- ### 📈 Activity Graph
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thnhdtdev&theme=react-dark)]
+## 📈 GitHub Stats & Metrics
 
----
+<!-- Sleek contribution activity graph with theme sensitivity -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.vercel.app/graph?username=MahyudeenShahid&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12">
+    <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.vercel.app/graph?username=MahyudeenShahid&bg_color=FFFFFF&color=475569&line=0D9488&point=10B981&area_color=E6FFFA&area=true&hide_border=true&radius=12">
+    <img alt="Mahyudeen's Contribution Activity Graph" src="https://activity-graph.vercel.app/graph?username=MahyudeenShahid&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12" width="100%" />
+  </picture>
+</p>
 
 ### 🔗 &nbsp;Contact Me
 
